@@ -1,5 +1,4 @@
-﻿
-namespace ToDoList.Domain.Enum
+﻿namespace ToDoList.Domain.Enum
 {
     public enum Priority
     {

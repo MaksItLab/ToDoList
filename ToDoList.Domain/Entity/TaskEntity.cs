@@ -10,7 +10,7 @@ namespace ToDoList.Domain.Entity
         /// <summary>
         /// Уникальный идентификатор задачи 
         /// </summary>
-        public int Id { get; set; }
+        public long Id { get; set; }
         /// <summary>
         /// Название задачи
         /// </summary>
