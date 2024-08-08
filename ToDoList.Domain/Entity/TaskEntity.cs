@@ -19,6 +19,7 @@ namespace ToDoList.Domain.Entity
         /// Описание задачи
         /// </summary>
         public string Description { get; set; }
+        public DateTime Created { get; set; }
         /// <summary>
         /// Приоритет задачи
         /// </summary>
